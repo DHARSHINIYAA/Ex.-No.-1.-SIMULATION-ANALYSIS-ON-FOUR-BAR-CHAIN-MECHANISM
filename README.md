@@ -54,7 +54,8 @@
 
 ## Output:
 
-![Uploading Screenshot (85).png…]()
+![WhatsApp Image 2024-04-12 at 11 01 38 AM](https://github.com/DHARSHINIYAA/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/149560172/5965b1af-88ba-4694-b4ad-77d5673bbd69)
+
 
 ### Name:DHARSHINIYAA KS
 ### Register Number: 212223100004
